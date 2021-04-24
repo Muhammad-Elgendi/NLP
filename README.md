@@ -26,3 +26,10 @@ Introducing Natural Language Processing (NLP) with hands-on projects.
    * https://www.tutorialspoint.com/python/python_strings.htm
    * https://docs.python.org/3/howto/regex.html
 
+5. Getting Started With NLP
+
+   * Chapter 1 from "Deep Learning for Natural Language Processing: Creating Neural Networks with Python"
+   * https://www.kdnuggets.com/2017/02/natural-language-processing-key-terms-explained.html
+   * https://realpython.com/python-virtual-environments-a-primer/
+
+
