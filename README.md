@@ -31,5 +31,24 @@ Introducing Natural Language Processing (NLP) with hands-on projects.
    * Chapter 1 from "Deep Learning for Natural Language Processing: Creating Neural Networks with Python"
    * https://www.kdnuggets.com/2017/02/natural-language-processing-key-terms-explained.html
    * https://realpython.com/python-virtual-environments-a-primer/
+   * https://textblob.readthedocs.io/en/dev/api_reference.html#module-textblob.classifiers
 
+6. Getting Started With NLP 2
+
+   * Chapter 1 from "Deep Learning for Natural Language Processing: Creating Neural Networks with Python"
+   * https://janakiev.com/blog/jupyter-virtual-envs/
+   * https://docs.python.org/3/library/urllib.request.html
+   * https://docs.python-requests.org/en/master/
+   * https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+   * https://scrapy.org/
+   * https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html
+   * https://docs.scipy.org/doc/scipy/reference/generated/scipy.sparse.csr_matrix.html
+
+7. Text Vectorization
+
+   * Chapter 4 from "Applied Text Analysis with Python" by Benjamin Bengfort, Rebecca Bilbro, and Tony Ojeda
+   * https://www.geeksforgeeks.org/python-yield-keyword/
+   * https://realpython.com/introduction-to-python-generators/
+   * https://www.geeksforgeeks.org/defaultdict-in-python/
+   * https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html
 
