@@ -9,9 +9,10 @@ Introducing Natural Language Processing (NLP) with hands-on projects.
 2. Object Oriented Programming (OOP)
 
    *  https://www.tutorialspoint.com/python3/dictionary_update.htm
-   *  Screenshots from "Introduction to Java Programming, Comprehensive Version, 10th Edition- Y. Daniel Liang"
+   *  Figures from "Introduction to Java Programming, Comprehensive Version, 10th Edition book by Y. Daniel Liang"
    *  https://www.tutorialspoint.com/python/python_classes_objects.htm
    *  https://realpython.com/python-super/#super-in-multiple-inheritance
+   *  https://eng.libretexts.org/Courses/Delta_College/C_-_Data_Structures/06%3A_Abstraction_Encapsulation/1.01%3A_Difference_between_Abstraction_and_Encapsulation
 
 3. Files and databases handling
 
@@ -51,4 +52,5 @@ Introducing Natural Language Processing (NLP) with hands-on projects.
    * https://realpython.com/introduction-to-python-generators/
    * https://www.geeksforgeeks.org/defaultdict-in-python/
    * https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html
+   * https://radimrehurek.com/gensim/auto_examples/tutorials/run_doc2vec_lee.html#sphx-glr-auto-examples-tutorials-run-doc2vec-lee-py
 
