@@ -47,7 +47,7 @@ Introducing Natural Language Processing (NLP) with hands-on projects.
 
 7. Text Vectorization
 
-   * Chapter 4 from "Applied Text Analysis with Python Book by Benjamin Bengfort, Rebecca Bilbro, and Tony Ojeda"
+   * [Chapter 4 from "Applied Text Analysis with Python Book by Benjamin Bengfort, Rebecca Bilbro, and Tony Ojeda"](https://www.oreilly.com/library/view/applied-text-analysis/9781491963036/ch04.html)
    * [Python | yield Keyword - GeeksforGeeks](https://www.geeksforgeeks.org/python-yield-keyword/)
    * [How to Use Generators and yield in Python – Real Python](https://realpython.com/introduction-to-python-generators/)
    * [Defaultdict in Python - GeeksforGeeks](https://www.geeksforgeeks.org/defaultdict-in-python/)
