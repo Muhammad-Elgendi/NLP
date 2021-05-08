@@ -8,7 +8,7 @@ Introducing Natural Language Processing (NLP) with hands-on projects.
 
 2. Object Oriented Programming (OOP)
 
-   *  Chapters 10 and 11 from "Introduction to Java Programming, Comprehensive Version, 10th Edition book by Y. Daniel Liang"
+   *  Chapters 10 and 11 from "Introduction to Java Programming, Comprehensive Version, 10th Edition Book by Y. Daniel Liang"
    *  [Python 3 - dictionary update() Method - Tutorialspoint](https://www.tutorialspoint.com/python3/dictionary_update.htm)
    *  [Python - Object Oriented - Tutorialspoint](https://www.tutorialspoint.com/python/python_classes_objects.htm)
    *  [Supercharge Your Classes With Python super() – Real Python](https://realpython.com/python-super/#super-in-multiple-inheritance)
@@ -29,14 +29,14 @@ Introducing Natural Language Processing (NLP) with hands-on projects.
 
 5. Getting Started With NLP
 
-   * Chapter 1 from "Deep Learning for Natural Language Processing: Creating Neural Networks with Python"
+   * Chapter 1 from "Deep Learning for Natural Language Processing Book by Karan Jain, Palash Goyal, and Sumit Pandey"
    * [Natural Language Processing Key Terms, Explained - KDnuggets](https://www.kdnuggets.com/2017/02/natural-language-processing-key-terms-explained.html)
    * [Python Virtual Environments: A Primer – Real Python](https://realpython.com/python-virtual-environments-a-primer/)
    * [API Reference — TextBlob 0.16.0 documentation](https://textblob.readthedocs.io/en/dev/api_reference.html#module-textblob.classifiers)
 
 6. Getting Started With NLP 2
 
-   * Chapter 1 from "Deep Learning for Natural Language Processing: Creating Neural Networks with Python"
+   * Chapter 1 from "Deep Learning for Natural Language Processing Book by Karan Jain, Palash Goyal, and Sumit Pandey"
    * [Using Virtual Environments in Jupyter Notebook and Python](https://janakiev.com/blog/jupyter-virtual-envs/)
    * [urllib.request — Extensible library for opening URLs — Python 3.9.5 documentation](https://docs.python.org/3/library/urllib.request.html)
    * [Requests: HTTP for Humans™ — Requests 2.25.1 documentation](https://docs.python-requests.org/en/master/)
@@ -47,7 +47,7 @@ Introducing Natural Language Processing (NLP) with hands-on projects.
 
 7. Text Vectorization
 
-   * Chapter 4 from "Applied Text Analysis with Python" by Benjamin Bengfort, Rebecca Bilbro, and Tony Ojeda
+   * Chapter 4 from "Applied Text Analysis with Python Book by Benjamin Bengfort, Rebecca Bilbro, and Tony Ojeda"
    * [Python | yield Keyword - GeeksforGeeks](https://www.geeksforgeeks.org/python-yield-keyword/)
    * [How to Use Generators and yield in Python – Real Python](https://realpython.com/introduction-to-python-generators/)
    * [Defaultdict in Python - GeeksforGeeks](https://www.geeksforgeeks.org/defaultdict-in-python/)
