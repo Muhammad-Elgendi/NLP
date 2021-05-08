@@ -20,7 +20,7 @@ Introducing Natural Language Processing (NLP) with hands-on projects.
    * [Python 3 - File Methods - Tutorialspoint](https://www.tutorialspoint.com/python3/file_methods.htm)
    * [Database Programming in Python | Basics | Open Source Foru](https://www.opensourceforu.com/2019/04/database-programming-python/)
    * [SQLite - Python - Tutorialspoint](https://www.tutorialspoint.com/sqlite/sqlite_python.htm)
-   * [Recommended management tool sqlitebrowser](https://sqlitebrowser.org/)
+   * [DB Browser for SQLite](https://sqlitebrowser.org/)
 
 4. Strings and regular expressions
 
